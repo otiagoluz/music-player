@@ -1,0 +1,17 @@
+{
+  "name": "iadv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch src/sass:src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hls.js": "^0.13.2",
+    "jcarousel": "^0.3.1",
+    "jquery": "^3.2.1",
+    "sass": "^1.26.8"
+  }
+}
