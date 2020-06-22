@@ -11,7 +11,7 @@
   "dependencies": {
     "hls.js": "^0.13.2",
     "jcarousel": "^0.3.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "sass": "^1.26.8"
   }
 }
